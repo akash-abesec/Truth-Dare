@@ -7,7 +7,7 @@
 <a href="https://aman-abesec.github.io/Truth-Dare/">Play</a>
 # Truth or Dare Game
 
-Welcome to the Truth or Dare Game! This interactive application brings the classic party game to your digital device, making it easy to play with friends and family, no matter where you are. This project is created and maintained by Aman Sing.
+Welcome to the Truth or Dare Game! This interactive application brings the classic party game to your digital device, making it easy to play with friends and family, no matter where you are. This project is created and maintained by Aman Singh, with contributions from [Aman Singh].
 
 ## Features
 
@@ -25,10 +25,15 @@ Welcome to the Truth or Dare Game! This interactive application brings the class
 4. **Complete Task**: The player must answer the truth question or complete the dare assigned to them.
 5. **Next Turn**: The next player is randomly selected, and the game continues.
 
-
 ## Contributing
 
 Contributions are welcome! If you have ideas for new features, improvements, or bug fixes, please submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
+
+Special thanks to [Aman Singh] for their significant contributions to the project, including:
+
+- Adding new and exciting truth questions and dares.
+- Enhancing the user interface for a better gaming experience.
+- Implementing multiplayer support for larger groups.
 
 ## License
 
@@ -36,7 +41,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or suggestions, feel free to reach out to Aman Singh at https://github.com/aman-abesec
+For any questions or suggestions, feel free to reach out to Aman Sing at https://github.com/aman-abesec
 
 ---
 
